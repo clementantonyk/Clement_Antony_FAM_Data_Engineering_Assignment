@@ -1,6 +1,6 @@
 # Stock Monthly Aggregator
 
-Converts daily stock price data into monthly OHLC bars, calculates technical indicators, and writes one output CSV per ticker.
+Converts daily stock price data into monthly OHLC data, calculates technical indicators, and generates one output CSV file per ticker.
 
 ## Requirements
 
